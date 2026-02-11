@@ -32,7 +32,7 @@ Este proyecto contiene el frontend de la aplicación, construido con **React**, 
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/mi-app-frontend.git
+git clone https://github.com/salvamuletmorales/imprenta-altea-front.git
 cd proyecto_front
 npm install
 npm install -D vite
